@@ -1,4 +1,4 @@
-# Hotel Booking Demand
+# Predict Hotel Booking Cancellations
 <img src="Hotel-Booking.jpg" style="width:1100px;height:617px" />
 
 The hospitality industry is facing issues in revenue generation due to ease of cancellations of the bookings made. This comes with the possibility of easy online bookings. It has become very important to run an analysis to help the industry to maximize its revenue generation and predict false bookings and probable cancellations in order to use their resources judiciously.
